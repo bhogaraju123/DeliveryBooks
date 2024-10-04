@@ -1,6 +1,0 @@
-# application-prod.properties
-spring.datasource.url=jdbc:mysql://localhost:3306/practicebooks
-spring.datasource.username=root
-spring.datasource.password=P@ssword
-spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
-spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
